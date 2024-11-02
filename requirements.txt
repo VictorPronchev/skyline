@@ -36,7 +36,7 @@ MarkupSafe==1.0
 #Werkzeug==0.11.11
 # @modified 20180105 - Task #2272: update deps for luminosity branch
 #Werkzeug==0.12.2
-Werkzeug==0.14.1
+Werkzeug==3.0.6
 
 # @modified 20180105 - Task #2272: update deps for luminosity branch
 #click==6.6
@@ -227,7 +227,7 @@ pygerduty==0.37.0
 #mysql-connector-python==1.2.3
 # @modified 20180416 - Task #2272: update deps for luminosity branch
 #mysql-connector-python
-mysql-connector-python==8.0.6
+mysql-connector-python==8.0.11
 
 # For a production WSGI HTTP Server for the Webapp
 # @modified 20170809 - Task #2138: Update deps
