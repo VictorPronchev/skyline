@@ -8,3 +8,4 @@ termcolor==1.1.0
 # @added 20170913 - Task #2160: Test skyline with bandit
 # For static analysis - https://github.com/openstack/bandit
 bandit==1.4.0
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
