@@ -232,7 +232,7 @@ mysql-connector-python==8.0.6
 # For a production WSGI HTTP Server for the Webapp
 # @modified 20170809 - Task #2138: Update deps
 #gunicorn==19.6.0
-gunicorn==19.7.1
+gunicorn==23.0.0
 
 # For dependencies management and helpful for debugging
 # @modified 20161119 - Branch #922: ionosphere
