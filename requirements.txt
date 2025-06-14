@@ -197,7 +197,7 @@ msgpack-python==0.5.6
 #requests==2.12.4
 # @modified 20180105 - Task #2272: update deps for luminosity branch
 #requests==2.18.3
-requests==2.18.4
+requests==2.32.4
 
 # ALERTERS - uncomment any alerters you want to enable
 python-simple-hipchat==0.4.0
