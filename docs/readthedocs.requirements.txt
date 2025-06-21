@@ -88,3 +88,4 @@ recommonmark
 # This project needs at least Sphinx v1.4.8 and therefore cannot be built with this version.
 Sphinx==1.4.8
 sphinx-rtd-theme==0.1.9
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
