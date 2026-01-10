@@ -36,7 +36,7 @@ MarkupSafe==1.0
 #Werkzeug==0.11.11
 # @modified 20180105 - Task #2272: update deps for luminosity branch
 #Werkzeug==0.12.2
-Werkzeug==0.14.1
+Werkzeug==3.1.5
 
 # @modified 20180105 - Task #2272: update deps for luminosity branch
 #click==6.6
@@ -315,3 +315,4 @@ PyJWT==1.6.4
 # https://github.com/linkedin/luminol/pull/39 - Passed max_shift_seconds to milliseconds
 # https://github.com/linkedin/luminol/pull/41 - fix normalize
 git+git://github.com/earthgecko/luminol@d429044#egg=luminol
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
