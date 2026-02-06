@@ -315,3 +315,4 @@ PyJWT==1.6.4
 # https://github.com/linkedin/luminol/pull/39 - Passed max_shift_seconds to milliseconds
 # https://github.com/linkedin/luminol/pull/41 - fix normalize
 git+git://github.com/earthgecko/luminol@d429044#egg=luminol
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
